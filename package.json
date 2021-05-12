@@ -1,0 +1,20 @@
+{
+  "name": "modul10-biblioteky-lesson",
+  "version": "1.0.0",
+  "description": "Вебинар [JavaScript 29] 28.04.21. Модуль 10. Занятие 19. Библиотеки",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasylBarna/modul10-biblioteky-lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasylBarna/modul10-biblioteky-lesson/issues"
+  },
+  "homepage": "https://github.com/VasylBarna/modul10-biblioteky-lesson#readme"
+}
